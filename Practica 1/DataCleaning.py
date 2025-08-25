@@ -48,9 +48,19 @@ def tipo_entidad(df):
     df['Entity_Type'] = np.where(df['Code'].notna(), 'Country', 'Region')
 
 #Funcion para eliminar los registros de entidades
-#Por el momento solo la uso con el Vaticano, razonamiento viene en Main 
+#Por el momento solo la uso con el Vaticano, razonamiento viene en Main
+#UPDATE: Tambien la uso ahora para 'Land-locked Developing Countries (LLDC)' y 'Small island developing states (SIDS)'
+#porque no tienen datos de nacimientos. Estas regiones comprenden muchos paises y la definicion es bastante vaga por lo que
+#no se que paises estan incluidos en esa categoria y como reconstruir sus datos, por lo que tambien droppeo estas filas
 def droppear_entidades(df, nombre_entidad):
-    df.drop(df[df['Entity'] == nombre_entidad].index, inplace=True)
+    df.drop(df[df['Entity'].isin(nombre_entidad)].index, inplace=True)
+
+#Funcion para agregar datos a regiones segun sus subregiones
+#Esta funcion la agregue porque note que America no tiene sus nacimientos contados pero 'Norteamerica' y
+#'Latinoamerica y Caribe' si lo tienen, por lo que se puede reconstruir sus nacimientos sumando estas dos
+def reconstruir_por_subregiones(df, columna, region, subregiones):
+    births_sum = df[df["Entity"].isin(subregiones)].groupby("Year")[columna].sum()
+    df.loc[df["Entity"] == region, columna] = df["Year"].map(births_sum)
 
 def main():
     direccion_actual = os.path.dirname(__file__)
@@ -73,7 +83,12 @@ def main():
     #Tambien si llegara a agregar una columna de poblacion cuando complemente el dataset,
     #los datos del Vaticano serian muy diferentes a los del resto del mundo por su poblacion de <1000 personas. 
     #Por eso prefiero eliminar las filas completamente.
-    droppear_entidades(df, nombre_entidad='Vaticano')
+    droppear_entidades(df, nombre_entidad=['Vatican', 
+    'Land-locked developing countries (LLDC)', 'Small island developing states (SIDS)'])
+
+    reconstruir_por_subregiones(df, columna='Births_Combined', 
+                                region='Americas (UN)', 
+                                subregiones=['Northern America (UN)', 'Latin America and the Caribbean (UN)'])
 
     df.to_csv(os.path.join(direccion_actual, 'births-and-deaths_cleaned.csv'), index=False)
 
