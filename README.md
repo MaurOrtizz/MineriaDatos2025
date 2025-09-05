@@ -7,6 +7,10 @@
 - [Script de importación de dataset de Kaggle](https://github.com/MaurOrtizz/MineriaDatos2025/blob/main/Practica%201/DataLoading.py)
 - [Script de limpieza y transformación de datos](https://github.com/MaurOrtizz/MineriaDatos2025/blob/main/Practica%201/DataCleaning.py)
 ### Practica 2:
+- [Script de estadisticas](https://github.com/MaurOrtizz/MineriaDatos2025/blob/main/Practica%202/Statistics.py)
+- [Dataset agrupado por pais](https://github.com/MaurOrtizz/MineriaDatos2025/blob/main/Practica%202/births-and-deaths-statistics_(Entity).csv)
+- [Dataset agrupado por año](https://github.com/MaurOrtizz/MineriaDatos2025/blob/main/Practica%202/births-and-deaths-statistics_(Year).csv)
+- [Dataset agrupado por pais y tipo de dato](https://github.com/MaurOrtizz/MineriaDatos2025/blob/main/Practica%202/births-and-deaths-statistics_(Entity_Data_Type).csv)
 ### Practica 3:
 ### Practica 4:
 ### Practica 5:
