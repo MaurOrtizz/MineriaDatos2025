@@ -21,6 +21,11 @@
 - [Comparación de distribución entre estimados y proyecciones de nacimientos](https://github.com/MaurOrtizz/MineriaDatos2025/blob/main/Practica%203/img/births-distribution-boxplot-yoy.png)
 - [Comparación de distribución entre estimados y proyecciones de muertes](https://github.com/MaurOrtizz/MineriaDatos2025/blob/main/Practica%203/img/deaths-distribution-boxplot-yoy.png)
 ### Practica 4:
+- [Script de pruebas estadísticas](https://github.com/MaurOrtizz/MineriaDatos2025/blob/main/Practica%204/StatisticTests.py)
+- [Grafica de distribución de estimados de nacimientos](https://github.com/MaurOrtizz/MineriaDatos2025/blob/main/Practica%204/img/Births_YoY-Estimate-distribution.png)
+- [Grafica de distribución de proyecciones de nacimientos](https://github.com/MaurOrtizz/MineriaDatos2025/blob/main/Practica%204/img/Births_YoY-Projection-distribution.png)
+- [Grafica de distribución de estimados de muertes](https://github.com/MaurOrtizz/MineriaDatos2025/blob/main/Practica%204/img/Deaths_YoY-Estimate-distribution.png)
+- [Grafica de distribución de proyecciones de muertes](https://github.com/MaurOrtizz/MineriaDatos2025/blob/main/Practica%204/img/Deaths_YoY-Projection-distribution.png)
 ### Practica 5:
 ### Practica 6:
 ### Practica 7:
