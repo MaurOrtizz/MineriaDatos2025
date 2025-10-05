@@ -27,6 +27,17 @@
 - [Grafica de distribución de estimados de muertes](https://github.com/MaurOrtizz/MineriaDatos2025/blob/main/Practica%204/img/Deaths_YoY-Estimate-distribution.png)
 - [Grafica de distribución de proyecciones de muertes](https://github.com/MaurOrtizz/MineriaDatos2025/blob/main/Practica%204/img/Deaths_YoY-Projection-distribution.png)
 ### Practica 5:
+- [Script de Regresión Lineal](https://github.com/MaurOrtizz/MineriaDatos2025/blob/main/Practica%205/LinearRegression.py)
+- [Csv del nuevo dataset de información de población total de paises por año](https://github.com/MaurOrtizz/MineriaDatos2025/blob/main/Practica%205/datasets/US_PopTotal_20230713030810.csv)
+- [Csv del nuevo dataset de información de razón de dependencia de paises por año](https://github.com/MaurOrtizz/MineriaDatos2025/blob/main/Practica%205/datasets/US_PopDependency_20230713030812.csv)
+- [Csv que combina los datos de los dos csv que descargue de Kaggle](https://github.com/MaurOrtizz/MineriaDatos2025/blob/main/Practica%205/datasets/PopulationInfo_cleaned.csv)
+- [Dataset combinado con el original y el nuevo](https://github.com/MaurOrtizz/MineriaDatos2025/blob/main/Practica%205/datasets/births-and-deaths_joined.csv)
+- [Script de carga de datos del nuevo dataset y limpieza de los csv](https://github.com/MaurOrtizz/MineriaDatos2025/blob/main/Practica%205/new_dataset_scripts/NewDatasetLoadingCleaning.py)
+- [Script que combina mi dataset original con el nuevo](https://github.com/MaurOrtizz/MineriaDatos2025/blob/main/Practica%205/new_dataset_scripts/DatasetJoin.py)
+- [Grafica de regresión lineal de razón de dependencia y tasa de nacimientos](https://github.com/MaurOrtizz/MineriaDatos2025/blob/main/Practica%205/img/Dependency%20Ratio%20(%)_Birth_Rate_regression.png)
+- [Grafica de regresión lineal de razón de dependencia y tasa de muertes](https://github.com/MaurOrtizz/MineriaDatos2025/blob/main/Practica%205/img/Dependency%20Ratio%20(%)_Death_Rate_regression.png)
+- [Grafica de regresión lineal de porcentaje de población urbana y tasa de nacimientos](https://github.com/MaurOrtizz/MineriaDatos2025/blob/main/Practica%205/img/Urban%20Population%20(%)_Birth_Rate_regression.png)
+- [Grafica de regresión lineal de porcentaje de población urbana y tasa de dependencia](https://github.com/MaurOrtizz/MineriaDatos2025/blob/main/Practica%205/img/Urban%20Population%20(%)_Dependency%20Ratio%20(%)_regression.png)
 ### Practica 6:
 ### Practica 7:
 ### Practica 8:
