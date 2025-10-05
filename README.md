@@ -34,10 +34,10 @@
 - [Dataset combinado con el original y el nuevo](https://github.com/MaurOrtizz/MineriaDatos2025/blob/main/Practica%205/datasets/births-and-deaths_joined.csv)
 - [Script de carga de datos del nuevo dataset y limpieza de los csv](https://github.com/MaurOrtizz/MineriaDatos2025/blob/main/Practica%205/new_dataset_scripts/NewDatasetLoadingCleaning.py)
 - [Script que combina mi dataset original con el nuevo](https://github.com/MaurOrtizz/MineriaDatos2025/blob/main/Practica%205/new_dataset_scripts/DatasetJoin.py)
-- [Grafica de regresión lineal de razón de dependencia y tasa de nacimientos](https://github.com/MaurOrtizz/MineriaDatos2025/blob/main/Practica%205/img/Dependency%20Ratio%20(%)_Birth_Rate_regression.png)
-- [Grafica de regresión lineal de razón de dependencia y tasa de muertes](https://github.com/MaurOrtizz/MineriaDatos2025/blob/main/Practica%205/img/Dependency%20Ratio%20(%)_Death_Rate_regression.png)
-- [Grafica de regresión lineal de porcentaje de población urbana y tasa de nacimientos](https://github.com/MaurOrtizz/MineriaDatos2025/blob/main/Practica%205/img/Urban%20Population%20(%)_Birth_Rate_regression.png)
-- [Grafica de regresión lineal de porcentaje de población urbana y tasa de dependencia](https://github.com/MaurOrtizz/MineriaDatos2025/blob/main/Practica%205/img/Urban%20Population%20(%)_Dependency%20Ratio%20(%)_regression.png)
+- [Grafica de regresión lineal de razón de dependencia y tasa de nacimientos](https://github.com/MaurOrtizz/MineriaDatos2025/blob/main/Practica%205/img/Dependency%20Ratio%20(%25)_Birth_Rate_regression.png)
+- [Grafica de regresión lineal de razón de dependencia y tasa de muertes](https://github.com/MaurOrtizz/MineriaDatos2025/blob/main/Practica%205/img/Dependency%20Ratio%20(%25)_Death_Rate_regression.png)
+- [Grafica de regresión lineal de porcentaje de población urbana y tasa de nacimientos](https://github.com/MaurOrtizz/MineriaDatos2025/blob/main/Practica%205/img/Urban%20Population%20(%25)_Birth_Rate_regression.png)
+- [Grafica de regresión lineal de porcentaje de población urbana y tasa de dependencia](https://github.com/MaurOrtizz/MineriaDatos2025/blob/main/Practica%205/img/Urban%20Population%20(%25)_Dependency%20Ratio%20(%25)_regression.png)
 ### Practica 6:
 ### Practica 7:
 ### Practica 8:
