@@ -39,6 +39,14 @@
 - [Grafica de regresión lineal de porcentaje de población urbana y tasa de nacimientos](https://github.com/MaurOrtizz/MineriaDatos2025/blob/main/Practica%205/img/Urban%20Population%20(%25)_Birth_Rate_regression.png)
 - [Grafica de regresión lineal de porcentaje de población urbana y tasa de dependencia](https://github.com/MaurOrtizz/MineriaDatos2025/blob/main/Practica%205/img/Urban%20Population%20(%25)_Dependency%20Ratio%20(%25)_regression.png)
 ### Practica 6:
+- [Script de modelo de K-Nearest Neighbors](https://github.com/MaurOrtizz/MineriaDatos2025/blob/main/Practica%206/knn.py)
+- [Nuevo dataset con informacion de continente y región de cada pais](https://github.com/MaurOrtizz/MineriaDatos2025/blob/main/Practica%206/datasets/births-and-deaths_continents.csv)
+- [Dataset combinado con el de la semana pasada y el nuevo](https://github.com/MaurOrtizz/MineriaDatos2025/blob/main/Practica%206/datasets/continents2.csv)
+- [Script de carga y combinación con el dataset actual](https://github.com/MaurOrtizz/MineriaDatos2025/blob/main/Practica%206/new_dataset_scripts/DataLoading&Join.py)
+- [Gráfica de clasificación con las tasas de nacimientos y muertes como atributos](https://github.com/MaurOrtizz/MineriaDatos2025/blob/main/Practica%206/img/scatterplot2025-['Birth_Rate',%20'Death_Rate'].png)
+- [Gráfica de clasificación con porcentaje de población urbana y tasa de dependencia como atributos](https://github.com/MaurOrtizz/MineriaDatos2025/blob/main/Practica%206/img/scatterplot2025-['Urban%20Population%20(%)',%20'Dependency Ratio%20(%)'].png)
+- [Matriz de confusión con las tasas de nacimientos y muertes como atributos](https://github.com/MaurOrtizz/MineriaDatos2025/blob/main/Practica%206/img/conf_matrix-['Birth_Rate',%20'Death_Rate'].png)
+- [Matriz de confusión con porcentaje de población urbana y tasa de dependencia como atributos](https://github.com/MaurOrtizz/MineriaDatos2025/blob/main/Practica%206/img/conf_matrix-['Urban%20Population%20(%)',%20'Dependency Ratio%20(%)'].png)
 ### Practica 7:
 ### Practica 8:
 ### Practica 9:
