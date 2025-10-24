@@ -48,6 +48,10 @@
 - [Matriz de confusión con las tasas de nacimientos y muertes como atributos](https://github.com/MaurOrtizz/MineriaDatos2025/blob/main/Practica%206/img/conf_matrix-['Birth_Rate',%20'Death_Rate'].png)
 - [Matriz de confusión con porcentaje de población urbana y tasa de dependencia como atributos](https://github.com/MaurOrtizz/MineriaDatos2025/blob/main/Practica%206/img/conf_matrix-['Urban%20Population%20(%)',%20'Dependency%20Ratio%20(%)'].png)
 ### Practica 7:
+- [Script de modelo de K-means](https://github.com/MaurOrtizz/MineriaDatos2025/blob/main/Practica%207/kmeans.py)
+- [Carpeta de graficas de cada iteracion de K-means para los datos de 1950](https://github.com/MaurOrtizz/MineriaDatos2025/blob/main/Practica%207/img_1950)
+- [Carpeta de graficas de cada iteracion de K-means para los datos de 2023](https://github.com/MaurOrtizz/MineriaDatos2025/blob/main/Practica%207/img_2023)
+- [Carpeta de graficas de cada iteracion de K-means para los datos de 2050](https://github.com/MaurOrtizz/MineriaDatos2025/blob/main/Practica%207/img_2050)
 ### Practica 8:
 ### Practica 9:
 
