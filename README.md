@@ -53,6 +53,17 @@
 - [Carpeta de graficas de cada iteracion de K-means para los datos de 2023](https://github.com/MaurOrtizz/MineriaDatos2025/blob/main/Practica%207/img_2023)
 - [Carpeta de graficas de cada iteracion de K-means para los datos de 2050](https://github.com/MaurOrtizz/MineriaDatos2025/blob/main/Practica%207/img_2050)
 ### Practica 8:
+- [Script de modelo de forecasting](https://github.com/MaurOrtizz/MineriaDatos2025/blob/main/Practica%208/Forecasting.py)
+- [Gráfica de forecasting de tasa de nacimientos en Africa](https://github.com/MaurOrtizz/MineriaDatos2025/blob/main/Practica%208/img/Forecasting-Birth_Rate-Africa.png)
+- [Gráfica de forecasting de tasa de nacimientos en America](https://github.com/MaurOrtizz/MineriaDatos2025/blob/main/Practica%208/img/Forecasting-Birth_Rate-Americas.png)
+- [Gráfica de forecasting de tasa de nacimientos en Asia](https://github.com/MaurOrtizz/MineriaDatos2025/blob/main/Practica%208/img/Forecasting-Birth_Rate-Asia.png)
+- [Gráfica de forecasting de tasa de nacimientos en Europa](https://github.com/MaurOrtizz/MineriaDatos2025/blob/main/Practica%208/img/Forecasting-Birth_Rate-Europe.png)
+- [Gráfica de forecasting de tasa de nacimientos en Oceania](https://github.com/MaurOrtizz/MineriaDatos2025/blob/main/Practica%208/img/Forecasting-Birth_Rate-Oceania.png)
+- [Gráfica de forecasting de tasa de muertes en Africa](https://github.com/MaurOrtizz/MineriaDatos2025/blob/main/Practica%208/img/Forecasting-Death_Rate-Africa.png)
+- [Gráfica de forecasting de tasa de muertes en America](https://github.com/MaurOrtizz/MineriaDatos2025/blob/main/Practica%208/img/Forecasting-Death_Rate-Americas.png)
+- [Gráfica de forecasting de tasa de muertes en Asia](https://github.com/MaurOrtizz/MineriaDatos2025/blob/main/Practica%208/img/Forecasting-Death_Rate-Asia.png)
+- [Gráfica de forecasting de tasa de muertes en Europa](https://github.com/MaurOrtizz/MineriaDatos2025/blob/main/Practica%208/img/Forecasting-Death_Rate-Europe.png)
+- [Gráfica de forecasting de tasa de muertes en Oceania](https://github.com/MaurOrtizz/MineriaDatos2025/blob/main/Practica%208/img/Forecasting-Death_Rate-Oceania.png)
 ### Practica 9:
 
 
