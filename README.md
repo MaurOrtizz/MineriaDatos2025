@@ -65,6 +65,16 @@
 - [Gráfica de forecasting de tasa de muertes en Europa](https://github.com/MaurOrtizz/MineriaDatos2025/blob/main/Practica%208/img/Forecasting-Death_Rate-Europe.png)
 - [Gráfica de forecasting de tasa de muertes en Oceania](https://github.com/MaurOrtizz/MineriaDatos2025/blob/main/Practica%208/img/Forecasting-Death_Rate-Oceania.png)
 ### Practica 9:
+- [Script de WordCloud](https://github.com/MaurOrtizz/MineriaDatos2025/blob/main/Practica%209/word_cloud.py)
+- [Script de carga de nuevos datos y Join con dataset pasado](https://github.com/MaurOrtizz/MineriaDatos2025/blob/main/Practica%209/dataset_scripts/DatasetLoading.py)
+- [Dataset con descripciones de paises](https://github.com/MaurOrtizz/MineriaDatos2025/blob/main/Practica%209/datasets/countries.csv)
+- [Dataset combinado de la Practica 6 y el de descripciones](https://github.com/MaurOrtizz/MineriaDatos2025/blob/main/Practica%209/datasets/births-and-deaths_descriptions.csv)
+- [Word Cloud de descripciones globales](https://github.com/MaurOrtizz/MineriaDatos2025/blob/main/Practica%209/img/wordcloud.png)
+- [Word Cloud de descripciones de América](https://github.com/MaurOrtizz/MineriaDatos2025/blob/main/Practica%209/img/wordcloud_Americas.png)
+- [Word Cloud de descripciones de Europa](https://github.com/MaurOrtizz/MineriaDatos2025/blob/main/Practica%209/img/wordcloud_Europe.png)
+- [Word Cloud de descripciones de Asia]((https://github.com/MaurOrtizz/MineriaDatos2025/blob/main/Practica%209/img/wordcloud_Asia.png))
+- [Word Cloud de descripciones de África](https://github.com/MaurOrtizz/MineriaDatos2025/blob/main/Practica%209/img/wordcloud_Africa.png)
+- [Word Cloud de descripciones de Oceanía](https://github.com/MaurOrtizz/MineriaDatos2025/blob/main/Practica%209/img/wordcloud_Oceania.png)
 
 
 
