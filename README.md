@@ -75,6 +75,16 @@
 - [Word Cloud de descripciones de Asia]((https://github.com/MaurOrtizz/MineriaDatos2025/blob/main/Practica%209/img/wordcloud_Asia.png))
 - [Word Cloud de descripciones de África](https://github.com/MaurOrtizz/MineriaDatos2025/blob/main/Practica%209/img/wordcloud_Africa.png)
 - [Word Cloud de descripciones de Oceanía](https://github.com/MaurOrtizz/MineriaDatos2025/blob/main/Practica%209/img/wordcloud_Oceania.png)
+### PIA:
+- [Script del PIA](https://github.com/MaurOrtizz/MineriaDatos2025/blob/main/PIA/pia.py)
+- [Graficas de KMeans](https://github.com/MaurOrtizz/MineriaDatos2025/blob/main/kmeans/)
+- [Graficas de Forecasting](https://github.com/MaurOrtizz/MineriaDatos2025/blob/main/forecasting/)
+- [Timeseries de natalidad y Mortalidad en Asia Oriental](https://github.com/MaurOrtizz/MineriaDatos2025/blob/main/Eastern_Asia/)
+- [Tabla de Outliers](https://github.com/MaurOrtizz/MineriaDatos2025/blob/main/outliers/outliers.csv)
+- [Tabla de composición de componentes principales](https://github.com/MaurOrtizz/MineriaDatos2025/blob/main/outliers/pca_components.csv)
+
+
+
 
 
 
